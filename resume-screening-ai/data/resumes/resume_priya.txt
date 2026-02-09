@@ -1,3 +1,0 @@
-Priya Shah
-Data engineer with strong SQL and Python skills. Built ETL pipelines and maintained APIs.
-Experience with testing frameworks and cloud deployments.

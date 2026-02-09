@@ -1,3 +1,0 @@
-Juan Rivera
-Frontend developer focused on JavaScript, React, and UI design.
-Built responsive interfaces and improved user experience across web applications.

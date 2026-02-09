@@ -1,3 +1,0 @@
-Alex Morgan
-Software engineer with 4 years of Python experience building REST APIs and data pipelines.
-Worked with PostgreSQL, unit testing, and AWS services. Collaborated with cross-functional teams.
