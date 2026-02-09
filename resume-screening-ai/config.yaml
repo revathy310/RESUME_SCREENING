@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    ray_3010:
+      email: revathysanilcs@gmail.com
+      logged_in: true
+      first_name: ray
+      last_name: san
+      password: $2b$12$AypI8Hn.74MN/jqF.kbRNuG28MG9wEfbn9wHr/icyYuJ9fQ3Re2tS
+      roles: null
+      failed_login_attempts: 0
+cookie:
+  expiry_days: 30
+  key: resume_screening_auth_key
+  name: resume_screening_auth
