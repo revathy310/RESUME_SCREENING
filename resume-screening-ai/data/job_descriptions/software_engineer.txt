@@ -1,0 +1,3 @@
+We are seeking a software engineer with experience in Python, REST APIs, and SQL.
+Responsibilities include building data pipelines, writing clean code, and collaborating with product teams.
+Familiarity with cloud services and unit testing is a plus.
